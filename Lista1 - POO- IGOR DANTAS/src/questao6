@@ -1,0 +1,8 @@
+Questao 6- Classe Abstrata não pode ser instanciada. Ela serve de modelo para as classes filhas. Na classe
+abstrata, estão os métodos genéricos que podem ser ou não implementados que você deseja que as classes que forem 
+implementá-la herdem. 
+
+Interfaces são padrões definidos através de especificações, como um contrato que a subclasse assina com a interface. 
+A interface é 100% abstrata . Toda classe que for implementar a interface deve ter todos os métodos da interface. 
+Na interface estão métodos que dificilmente serão modificados, então é uma boa forma de proteger o programa de problemas caso 
+tenha que fazer alguma alteração futura.

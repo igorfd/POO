@@ -1,0 +1,6 @@
+Questao5 - Sobreposição é uma reutilização de código. É quando se reescreve um método já existente herdado de uma outra classe 
+com a mesma assinatura, porém, com funcionalidades mais específicas para a sua classe.
+ 
+Sobrecarga é uma forma de aumentar as possibilidades de uso de um método pelo programa principal. Podendo ter mais de um método 
+com a mesma função, mas que recebe parâmetros de formas diferentes, para aumentar a possibilidade de acesso ao método. Portanto, 
+diferente da sobreposição, a assinatura não precisa idêntica para haver sobrecarga.

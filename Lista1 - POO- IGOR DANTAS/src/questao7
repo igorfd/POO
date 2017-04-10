@@ -1,0 +1,7 @@
+Questao 7- Herança como o próprio nome diz: uma subclasse herda os métodos e atributos de uma superclasse com exceção de 
+métodos e atributos privados. A herança é uma forma de generalizar similaridades de outras classes reunindo-as em uma classe pai.
+Na herança é usado o termo "É-UM". Herança indica um forte nível de acoplamento. Herança é um reaproveitamento de código em tempo
+de compilação.
+Na composição temos uma instância de uma classe existente usada como componente de outra classe. Na composição é usado o termo "TEM-UM".
+A composição indica um menor nível de dependência, tornando mais flexível. Maior encapsulamento e menor acoplamento.
+É um reaproveitamento de código em tempo de execução. 
